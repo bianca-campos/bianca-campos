@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @bianca-campos
-- 🌱  I’m currently learning iOS
+- 🌱  I’m currently learning iOS & playing around Spark AR
 - 📫  Reach me @biancancampos
 
 <!---
